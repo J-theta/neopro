@@ -7,7 +7,7 @@ A fast, small and intuitive __CLI__ application for creating projects from pre-d
 Install globally with _npm_.
 
 ```bash
-npm i -g neopro
+npm i -g neoprojs
 ```
 
 Now you have access to the `neo` command.
