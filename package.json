@@ -1,0 +1,30 @@
+{
+	"name": "neoprojs",
+	"version": "0.0.1",
+	"description": "A fast, small and intuitive CLI application for creating projects from pre-defined templates.",
+	"main": "bin/index.js",
+	"bin": {
+		"neo": "./bin/index.js"
+	},
+	"scripts": {
+		"dev": "tsc"
+	},
+	"keywords": [
+		"cli",
+		"command line interface",
+		"template projects"
+	],
+	"author": "J-theta",
+	"license": "ISC",
+	"markdown": "github",
+	"devDependencies": {},
+	"dependencies": {
+		"@types/inquirer": "^6.5.0",
+		"chalk": "^4.0.0",
+		"inquirer": "^7.1.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/J-theta/neopro"
+	}
+}
